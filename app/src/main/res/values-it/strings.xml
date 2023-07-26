@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Turisteando2
+Abbiamo molte parti in cui tu, la tua famiglia e i tuoi amici potete riposare e
+    divertiti, abbiamo cabine da $ 280.000 a notte e camere da $ 85.000 a notte
+</string>
+    <string name="reseñaRestaurantes">
+       In questo ristorante troveremo tutti i tipi di cibo, dal cibo tipico al fast food
+        con prezzi vari con pranzo da $ 14.000 il più economico, anche il salchipapa piu economico da $ 4.000
+    </string>
+    <string name="reseñaSitiosTuristicos">
+
+       Abbiamo anche molte aree in cui puoi uscire per ricreare con la tua famiglia e un gruppo di amici.
+        Abbiamo diverse attivita come aree acquatiche da $ 14.000 per passeggiate a cavallo da $ 20.000 lora, abbiamo diverse attivita e cosa sapere sui nostri percorsi
+        guarneños
+    </string>
+    <string name="opcion1">ingles</string>
+    <string name="opcion2">español</string>
+    <string name="opcion3">acerca de</string>
+    <string name="opcion4">Italian</string>
+</resources>

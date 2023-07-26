@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Turisteando2
+    We have many parts where you, your family and friends can rest and
+    enjoy, we have cabins from $280,000 a night and rooms from $85,000 a night
+</string>
+    <string name="reseñaRestaurantes">
+        In this restaurant we will find all kinds of food, from typical food to fast food
+        with varied prices with lunch from $14,000 the cheapest, even the cheapest salchipapa from $4,000
+    </string>
+    <string name="reseñaSitiosTuristicos">
+       We also have many areas where you can go out to recreate with your family and a bunch of friends.
+        We have different activities such as aquatic areas from $14,000 for the entrance
+        We also have horseback riding from $20,000 an hour, we have different activities and what to know about our paths
+        guarneñas
+    </string>
+    <string name="opcion1">English</string>
+    <string name="opcion2">Spanish</string>
+    <string name="opcion3">About us</string>
+    <string name="opcion4">Italian</string>
+
+</resources>

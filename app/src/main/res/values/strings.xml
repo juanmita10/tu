@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Turisteando2
+    Contamos con mcuhas partes donde tu tu familia y amigos pueden desncansar y
+    disfutar, tenemos cabañas desde $280.000 la noche y piesas desde $85.000 la noche
+</string>
+    <string name="reseñaRestaurantes">
+        En este restaurante encontraremos toda clases de comida, desde comida tipica hasta comida rapida
+        con precios variados con almuerzoz desde $14.000 el mas barato, Hasta la salchipapa mas barata desde $4.000
+    </string>
+    <string name="reseñaSitiosTuristicos">
+
+        Contamos tambien con muchas zonas donde puesdes salir a recrear con tu familia y el parhce de amigos
+        Tenemos diferentes actividades como zonas acuaticas desde $14.000 la entrada
+        Tambien contamos con cabalgatas desde $20.000 la hora, Tenemos Diferentes actividades y que conocer de nuestras veredas
+        Guarneñas.
+    </string>
+    <string name="opcion1">ingles</string>
+    <string name="opcion2">español</string>
+    <string name="opcion3">acerca de</string>
+    <string name="opcion4">Italian</string>
+</resources>
